@@ -5,7 +5,7 @@ Uma landing page moderna e interativa para um depósito de bebidas, desenvolvida
 ## 🚀 Demonstração
 
 🔗 **Acesse o projeto:**  
-https://SEU-LINK-VERCEL.vercel.app
+https://premium-depot.vercel.app/
 
 ## 📸 Preview
 
@@ -121,7 +121,7 @@ Este projeto foi desenvolvido para demonstrar habilidades em desenvolvimento Fro
 **Lucas Pianni**
 
 🔗 LinkedIn  
-https://linkedin.com/in/SEU-LINKEDIN
+www.linkedin.com/in/lucassantospianni
 
 🐙 GitHub  
 https://github.com/lucaspianni

@@ -1,16 +1,133 @@
-# React + Vite
+# 🍺 Premium Depot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma landing page moderna e interativa para um depósito de bebidas, desenvolvida com **React**, **Vite** e **GSAP**, proporcionando uma experiência visual imersiva com animações cinematográficas, transições suaves e foco em conversão.
 
-Currently, two official plugins are available:
+## 🚀 Demonstração
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 **Acesse o projeto:**  
+https://SEU-LINK-VERCEL.vercel.app
 
-## React Compiler
+## 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+> Adicione um print da página principal aqui.
 
-## Expanding the ESLint configuration
+Exemplo:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Premium Depot](./preview.png)
+
+---
+
+## ✨ Funcionalidades
+
+- 🎬 Animações cinematográficas utilizando GSAP
+- 📜 Scroll interativo com ScrollTrigger
+- 🍺 Catálogo de bebidas premium
+- 📱 Layout responsivo
+- 💬 Integração direta com WhatsApp
+- ⚡ Interface moderna inspirada em grandes marcas
+- 🎨 Design focado na experiência do usuário
+
+---
+
+## 🛠 Tecnologias
+
+- React
+- Vite
+- JavaScript
+- GSAP
+- ScrollTrigger
+- CSS3
+- HTML5
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+premium-depot/
+│
+├── public/
+│   ├── logo.png
+│   ├── cena1.jpg
+│   ├── cena2.jpg
+│   ├── ...
+│
+├── src/
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+│
+├── package.json
+└── vite.config.js
+```
+
+---
+
+## ⚙️ Como executar localmente
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/lucaspianni/premium-depot.git
+```
+
+Entre na pasta:
+
+```bash
+cd premium-depot
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Inicie o projeto:
+
+```bash
+npm run dev
+```
+
+Abra no navegador:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🎯 Objetivo
+
+Este projeto foi desenvolvido para demonstrar habilidades em desenvolvimento Front-end, criação de interfaces modernas e utilização de animações avançadas com foco em experiência do usuário e conversão.
+
+---
+
+## 📈 Competências Demonstradas
+
+- Desenvolvimento Front-end
+- Componentização com React
+- Manipulação de animações com GSAP
+- UX/UI
+- Design Responsivo
+- Organização de código
+- Integração com WhatsApp
+- Performance em aplicações React
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+**Lucas Pianni**
+
+🔗 LinkedIn  
+https://linkedin.com/in/SEU-LINKEDIN
+
+🐙 GitHub  
+https://github.com/lucaspianni
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins de estudo e portfólio.

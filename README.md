@@ -46,5 +46,3 @@ O projeto foi desenvolvido com foco em design visual, animações de scroll, org
 - Projeto publicado para acesso online
 
 ---
-
-## 📸 Preview

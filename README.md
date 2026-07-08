@@ -1,125 +1,53 @@
-# 🍺 Premium Depot
+<h1 align="center">Premium Depot 🍻</h1>
 
-Uma landing page moderna e interativa para um depósito de bebidas, desenvolvida com **React**, **Vite** e **GSAP**, proporcionando uma experiência visual imersiva com animações cinematográficas, transições suaves e foco em conversão.
+<p align="center">
+Landing Page premium para depósito de bebidas, desenvolvida com React, Vite, CSS e animações com GSAP.
+</p>
 
-## 🚀 Demonstração
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github" />
+</p>
 
-🔗 **Acesse o projeto:**  
-https://premium-depot.vercel.app/
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projeto-Responsivo-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge"/>
+</p>
+
+---
+
+## 📌 Sobre o projeto
+
+O **Premium Depot** é uma landing page moderna criada para simular a presença digital de um depósito de bebidas.
+
+O projeto foi desenvolvido com foco em design visual, animações de scroll, organização de componentes e apresentação profissional para portfólio.
+
+---
+
+## 🚀 Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Vite
+- GSAP
+- Git e GitHub
 
 ---
 
 ## ✨ Funcionalidades
 
-- 🎬 Animações cinematográficas utilizando GSAP
-- 📜 Scroll interativo com ScrollTrigger
-- 🍺 Catálogo de bebidas premium
-- 📱 Layout responsivo
-- 💬 Integração direta com WhatsApp
-- ⚡ Interface moderna inspirada em grandes marcas
-- 🎨 Design focado na experiência do usuário
+- Layout moderno e responsivo
+- Animações durante o scroll
+- Seção de produtos
+- Identidade visual premium
+- Estrutura organizada em React
+- Projeto publicado para acesso online
 
 ---
 
-## 🛠 Tecnologias
+## 📸 Preview
 
-- React
-- Vite
-- JavaScript
-- GSAP
-- ScrollTrigger
-- CSS3
-- HTML5
-
----
-
-## 📂 Estrutura do Projeto
-
-```
-premium-depot/
-│
-├── public/
-│   ├── logo.png
-│   ├── cena1.jpg
-│   ├── cena2.jpg
-│   ├── ...
-│
-├── src/
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-│
-├── package.json
-└── vite.config.js
-```
-
----
-
-## ⚙️ Como executar localmente
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/lucaspianni/premium-depot.git
-```
-
-Entre na pasta:
-
-```bash
-cd premium-depot
-```
-
-Instale as dependências:
-
-```bash
-npm install
-```
-
-Inicie o projeto:
-
-```bash
-npm run dev
-```
-
-Abra no navegador:
-
-```
-http://localhost:5173
-```
-
----
-
-## 🎯 Objetivo
-
-Este projeto foi desenvolvido para demonstrar habilidades em desenvolvimento Front-end, criação de interfaces modernas e utilização de animações avançadas com foco em experiência do usuário e conversão.
-
----
-
-## 📈 Competências Demonstradas
-
-- Desenvolvimento Front-end
-- Componentização com React
-- Manipulação de animações com GSAP
-- UX/UI
-- Design Responsivo
-- Organização de código
-- Integração com WhatsApp
-- Performance em aplicações React
-
----
-
-## 👨‍💻 Desenvolvedor
-
-**Lucas Pianni**
-
-🔗 LinkedIn  
-www.linkedin.com/in/lucassantospianni
-
-🐙 GitHub  
-https://github.com/lucaspianni
-
----
-
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins de estudo e portfólio.
+```md
+![Preview do projeto](./src/assets/preview.gif)

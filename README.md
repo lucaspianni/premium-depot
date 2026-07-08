@@ -49,5 +49,4 @@ O projeto foi desenvolvido com foco em design visual, animações de scroll, org
 
 ## 📸 Preview
 
-```md
-![Preview do projeto](./src/assets/preview.gif)
+Acesse: premium-depot.vercel.app

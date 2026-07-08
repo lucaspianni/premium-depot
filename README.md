@@ -7,14 +7,6 @@ Uma landing page moderna e interativa para um depósito de bebidas, desenvolvida
 🔗 **Acesse o projeto:**  
 https://premium-depot.vercel.app/
 
-## 📸 Preview
-
-> Adicione um print da página principal aqui.
-
-Exemplo:
-
-![Premium Depot](./preview.png)
-
 ---
 
 ## ✨ Funcionalidades
